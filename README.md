@@ -1065,6 +1065,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
 - [MindPal](https://mindpal.ai) – A platform to build AI Agents and Multi-agent workflows.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
+- [GPT Image 2](https://gptimage2.asia/) - AI image generation and editing for marketing, ecommerce, social media, and brand visuals.
 - [TensorFlow](https://www.tensorflow.org/) - Open-source machine learning framework by Google.
 - [IBM Watson](https://www.ibm.com/watson) - Suite of enterprise-ready AI services, applications, and tooling.
 - [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/) - Microsoft's comprehensive suite of AI tools and frameworks.
